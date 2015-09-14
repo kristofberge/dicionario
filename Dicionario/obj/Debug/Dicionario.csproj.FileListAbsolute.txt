@@ -1,0 +1,45 @@
+C:\prog\Way2\Dicionario\Dicionario\bin\Debug\Dicionario.exe.config
+C:\prog\Way2\Dicionario\Dicionario\bin\Debug\Dicionario.exe
+C:\prog\Way2\Dicionario\Dicionario\bin\Debug\Dicionario.pdb
+C:\prog\Way2\Dicionario\Dicionario\obj\Debug\Dicionario.csprojResolveAssemblyReference.cache
+C:\prog\Way2\Dicionario\Dicionario\obj\Debug\Dicionario.exe
+C:\prog\Way2\Dicionario\Dicionario\obj\Debug\Dicionario.pdb
+C:\prog\Way2\Dicionario\Dicionario\bin\Debug\Newtonsoft.Json.dll
+C:\prog\Way2\Dicionario\Dicionario\bin\Debug\System.Net.Http.Formatting.dll
+C:\prog\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.dll
+C:\prog\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.WebHost.dll
+C:\prog\Way2\Dicionario\Dicionario\bin\Debug\Newtonsoft.Json.xml
+C:\prog\Way2\Dicionario\Dicionario\bin\Debug\System.Net.Http.Formatting.xml
+C:\prog\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.xml
+C:\prog\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\Dicionario.exe.config
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\obj\Debug\Dicionario.exe
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\obj\Debug\Dicionario.pdb
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\Dicionario.exe
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\Dicionario.pdb
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.dll
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.xml
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Bravi\Google Drive\Way2\Dicionario\Dicionario\obj\Debug\Dicionario.csprojResolveAssemblyReference.cache
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\Dicionario.exe.config
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\obj\Debug\Dicionario.exe
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\obj\Debug\Dicionario.csprojResolveAssemblyReference.cache
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\Dicionario.exe
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\Dicionario.pdb
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.dll
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.xml
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Kristof\Google Drive\Way2\Dicionario\Dicionario\obj\Debug\Dicionario.pdb
+C:\PersonalProjects\Way2\Dicionario\Dicionario\bin\Debug\Dicionario.exe.config
+C:\PersonalProjects\Way2\Dicionario\Dicionario\obj\Debug\Dicionario.exe
+C:\PersonalProjects\Way2\Dicionario\Dicionario\obj\Debug\Dicionario.pdb
